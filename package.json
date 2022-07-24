@@ -1,0 +1,14 @@
+{
+  "name": "Booking-e2e",
+  "version": "1.0.0",
+  "description": "Autotest of the main functionality of the Booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Belousov",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
