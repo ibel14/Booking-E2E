@@ -11,7 +11,7 @@ In case of issues with launching test cases check the installed nodejs version.
 Download project files using:
 
 ```
-git clone https://github.com/ponaehali/e2e-booking
+git clone https://github.com/ponaehali/Booking-E2E
 ```
 
 Navigate to the directory with downloaded files and install all required dependencies for project using:
